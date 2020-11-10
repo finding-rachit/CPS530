@@ -1,0 +1,10 @@
+body{
+    background-color:#000000;
+    color: white;
+    text-align: center;
+    border: white;
+    border-style: dashed;
+    border-color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div {border-style: dotted;}
